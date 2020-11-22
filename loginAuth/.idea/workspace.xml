@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="129af4af-536c-4080-b609-e4547331e661" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go" />
+  <component name="ProjectId" id="1jlKU44KmiglLxESjkN3lr723qT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grpc/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/config" />
+      <recent name="$PROJECT_DIR$/data/x509" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/grpc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build loginAuth (1)">
+    <configuration name="go build loginAuth (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="loginAuth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="loginAuth" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build loginAuth" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="loginAuth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="loginAuth" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCheckToken in loginAuth/userauth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="loginAuth" />
+      <working_directory value="$PROJECT_DIR$/userauth" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="loginAuth/userauth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCheckToken\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConfig_ConfigInit in loginAuth/config" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="loginAuth" />
+      <working_directory value="$PROJECT_DIR$/config" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="loginAuth/config" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestConfig_ConfigInit\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCreateToken in loginAuth/userauth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="loginAuth" />
+      <working_directory value="$PROJECT_DIR$/userauth" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="loginAuth/userauth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCreateToken\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMessageBroke_MessageConsumer in loginAuth/messagebroke" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="loginAuth" />
+      <working_directory value="$PROJECT_DIR$/messagebroke" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="loginAuth/messagebroke" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMessageBroke_MessageConsumer\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test RedisRPC" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="loginAuth" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="loginAuth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build loginAuth" />
+      <item itemvalue="Go Build.go build loginAuth (1)" />
+      <item itemvalue="Go Test.go test RedisRPC" />
+      <item itemvalue="Go Test.TestMessageBroke_MessageConsumer in loginAuth/messagebroke" />
+      <item itemvalue="Go Test.TestCheckToken in loginAuth/userauth" />
+      <item itemvalue="Go Test.TestCreateToken in loginAuth/userauth" />
+      <item itemvalue="Go Test.TestConfig_ConfigInit in loginAuth/config" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build loginAuth (1)" />
+        <item itemvalue="Go Test.TestConfig_ConfigInit in loginAuth/config" />
+        <item itemvalue="Go Test.TestCreateToken in loginAuth/userauth" />
+        <item itemvalue="Go Test.TestCheckToken in loginAuth/userauth" />
+        <item itemvalue="Go Test.TestMessageBroke_MessageConsumer in loginAuth/messagebroke" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="129af4af-536c-4080-b609-e4547331e661" name="Default Changelist" comment="" />
+      <created>1604373250624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604373250624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2338" y="211" width="1084" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604833908725">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="418" y="222" width="1084" height="858" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604624958935" />
+    <state x="2338" y="211" width="1084" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604833908725" />
+    <state width="1872" height="190" key="GridCell.Tab.0.bottom" timestamp="1604851701462">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="190" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701462" />
+    <state width="1872" height="369" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839287872" />
+    <state width="1872" height="190" key="GridCell.Tab.0.center" timestamp="1604851701461">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="190" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701461" />
+    <state width="1872" height="369" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839287872" />
+    <state width="1872" height="190" key="GridCell.Tab.0.left" timestamp="1604851701461">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="190" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701461" />
+    <state width="1872" height="369" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839287872" />
+    <state width="1872" height="190" key="GridCell.Tab.0.right" timestamp="1604851701462">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="190" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701462" />
+    <state width="1872" height="369" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839287872" />
+    <state width="1872" height="159" key="GridCell.Tab.1.bottom" timestamp="1604851701453">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="159" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701453" />
+    <state width="1872" height="369" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839288551" />
+    <state width="1872" height="159" key="GridCell.Tab.1.center" timestamp="1604851701452">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="159" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701452" />
+    <state width="1872" height="369" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839288551" />
+    <state width="1872" height="159" key="GridCell.Tab.1.left" timestamp="1604851701452">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="159" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701452" />
+    <state width="1872" height="369" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839288551" />
+    <state width="1872" height="159" key="GridCell.Tab.1.right" timestamp="1604851701452">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="159" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604851701452" />
+    <state width="1872" height="369" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604839288551" />
+    <state x="2369" y="188" key="SettingsEditor" timestamp="1604373334478">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="188" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604373334478" />
+    <state x="485" y="232" width="940" height="685" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604472819298">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="485" y="232" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604472819298" />
+    <state x="2405" y="210" width="940" height="685" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604373363324" />
+    <state x="289" y="0" width="1566" height="692" maximized="true" key="dock-window-1" timestamp="1604730694779">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="289" y="0" width="1566" height="692" maximized="true" key="dock-window-1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604730694779" />
+    <state x="1952" y="27" width="1566" height="719" maximized="true" key="dock-window-2" timestamp="1604735232345">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1952" y="27" width="1566" height="719" maximized="true" key="dock-window-2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604735232345" />
+    <state x="2274" y="27" width="1566" height="719" maximized="true" key="dock-window-3" timestamp="1604739303408">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2274" y="27" width="1566" height="719" maximized="true" key="dock-window-3/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604739303408" />
+    <state x="2190" y="27" width="1566" height="784" maximized="true" key="dock-window-4" timestamp="1604757934384">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2190" y="27" width="1566" height="784" maximized="true" key="dock-window-4/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604757934384" />
+    <state x="1929" y="27" width="1566" height="784" maximized="true" key="dock-window-5" timestamp="1604757934384">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1929" y="27" width="1566" height="784" maximized="true" key="dock-window-5/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604757934384" />
+    <state x="2203" y="27" width="1566" height="784" maximized="true" key="dock-window-6" timestamp="1604759735932">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2203" y="27" width="1566" height="784" maximized="true" key="dock-window-6/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604759735932" />
+    <state x="316" y="27" width="1566" height="790" maximized="true" key="dock-window-7" timestamp="1604826913306">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="316" y="27" width="1566" height="790" maximized="true" key="dock-window-7/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604826913306" />
+    <state x="113" y="27" width="1566" height="790" maximized="true" key="dock-window-8" timestamp="1604827493443">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="113" y="27" width="1566" height="790" maximized="true" key="dock-window-8/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604827493443" />
+    <state x="2543" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1604822780801">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="259" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604822780801" />
+  </component>
+</project>

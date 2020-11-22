@@ -1,0 +1,7 @@
+{
+  "messageId": 0,
+  "topic": "dataPush",
+  "receiver": "loginAuth",
+  "ip": "",
+  "result": "success"
+}

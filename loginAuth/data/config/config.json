@@ -1,0 +1,44 @@
+{
+  "RedisRPCServer": {
+    "netProtocol": "tcp",
+    "serverAddr": "localhost:2100",
+    "certFile": "x509/server_cert.pem",
+    "keyFile": "x509/server_key.pem"
+  },
+  "MessageBroke": {
+    "address": ["kafka-headless:9092"],
+    "bufferSize": 100,
+    "topicName": "dataPush"
+  },
+  "RedisHelper": {
+    "protocol": "tcp",
+    "ip": "localhost",
+    "port": "6379"
+  },
+  "NacosServer": {
+    "ipAddr": "nacos-headless",
+    "contextPath": "/nacos",
+    "port": 8848,
+    "servicePort": 6000
+  },
+  "DataPush": {
+    "messageId": 0,
+    "topic": "dataPush",
+    "receiver": "loginAuth",
+    "ipAddr": "",
+    "port": 2100,
+    "userName": "zhangshan",
+    "password": "123456",
+    "token": ""
+  },
+  "UpdateToken": {
+    "messageId": 0,
+    "topic": "updateRedis",
+    "receiver": "loginAuth",
+    "ipAddr": "",
+    "port": 2100,
+    "userName": "",
+    "password": "",
+    "token": ""
+  }
+}

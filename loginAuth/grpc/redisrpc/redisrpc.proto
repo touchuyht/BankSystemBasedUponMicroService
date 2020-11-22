@@ -1,0 +1,24 @@
+// Copyright 2020 yehaotian. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+syntax = "proto3";
+
+option go_package="loginAuth/grpc/redisrpc";
+
+package redisrpc;
+
+service IRedisRPC{
+    rpc UpdateToken(User) returns(Result){}
+    rpc InsertUsers(stream User) returns(Result){}
+}
+
+message User{
+    string userName = 1;
+    string password = 2;
+    string token = 3;
+}
+
+message Result{
+    string result = 1;
+}
